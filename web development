@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+  <table cellspacing="154">
+    <tr>
+      <td> <img src="IMG_20200921_002931.jpg"></td>
+      <td><strong>Tanmy raosaheb deshmukh <br>mechanical enginerr(student)<br>buldhana,maharashtra <br>web development</strong></td>
+    </tr>
+  </table>
+  <hr>
+  <h1><strong>personal info</strong></h1>
+  <p>I am 19 year old born on 11 feb 2001. choice to be enginerr as i my <br>love
+    and interest towards technology and research now a days with my regular
+    <br> engineering i am trying to get b comm degree as the another study <br>
+    as i love economics. I will try the software development as I finish <br>
+    the web development which project i have taken recently.
+  </p>
+  <hr>
+  <h2>HOBBIES</h2>
+  <ul>
+    <li>LOVE TO PLAT CRICKET AND TENNIS</li>
+    <li>LOVE TO DEVELOP WEB SITE</li>
+    <li>LIKE TO READ AND WRITE WANT TO BE THE CONTENT WRITER</li>
+    <li>WATCHING WEB SERIES AND MOVIES</li>
+  </ul>
+  <hr>
+  <h3>skills rating</h3>
+
+
+  <table>
+    <tr>
+      <td>CRICKET</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>WRITING</td>
+      <td>4</td>
+
+    </tr>
+    <tr>
+      <td>WEB DEVELOPMENT</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>DRAWING</td>
+      <td>4</td>
+    </tr>
+    <hr>
+  </table>
+
+</body>
+
+</html>
